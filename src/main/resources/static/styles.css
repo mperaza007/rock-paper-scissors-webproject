@@ -1,0 +1,13 @@
+
+body{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+}
+button{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+}
